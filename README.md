@@ -1,9 +1,8 @@
 ## Hi there 👋
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brenin020&layout=compact&theme=github_dark&bg_border_color=2f2f2f&cache_seconds=600)
 
-<!--
-**brenin020/brenin020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
